@@ -18,4 +18,4 @@ Usage:
 
 Note: This script is a tool to generate purposeful and coherent operation names, ideal for storytelling, game development, branding, or any project that requires names with genuine significance. It’s designed to spark creativity while maintaining a grounded sense of coherence.
 
-Feel free to adjust the description as needed to align with your use case.
+Feel free to adjust the code as needed to align with your use case.
